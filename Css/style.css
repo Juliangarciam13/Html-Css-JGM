@@ -1,0 +1,35 @@
+h2{
+    font-size: 50px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a:hover{
+    color:aqua;
+}
+
+.Section1{
+    text-align: center;
+    text-align: justify;
+    font-size: 20px;
+}
+
+html {
+    background-color: #0b9f00;
+  }
+
+  body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 2px solid black;
+  }
+
+  #sports {
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
